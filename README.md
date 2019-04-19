@@ -23,6 +23,7 @@ In der Dingfabrik Köln am ???
 * Funktionen mit variabler Parameteranzahl
 * Objekt-orientiertes Python: Klassen und Vererbung (optional)
 * Funktionales Python: Map, Filter & Reduce (optional)
+* Grafische Oberflächen mit TK und Qt 
 * Anwendungen:
 
    * Dateien lesen und schreiben (Text, CSV, Excel)
