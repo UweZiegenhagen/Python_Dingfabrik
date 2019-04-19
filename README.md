@@ -14,7 +14,7 @@ In der Dingfabrik Köln am ???
 # Themen
 
 * Geschichte der Sprache
-* Python installieren (hoffentlich nur kurz)
+* Python installieren (hoffentlich nur kurz, jeder sollte die Installation hinter sich haben)
 * Python als interaktiver Taschenrechner
 * Datentypen: String, int, float
 * Schleifen und ranges
