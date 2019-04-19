@@ -25,6 +25,10 @@ In der Dingfabrik Köln am ???
 * Funktionales Python: Map, Filter & Reduce (optional)
 * Anwendungen:
 
-* Dateien lesen und schreiben (Text, CSV, Excel)
-* Daten auswerten mit pandas
-* Machine Learning (Cluster Analyse)
+   * Dateien lesen und schreiben (Text, CSV, Excel)
+   * Daten verarbeiten mit pandas
+   * Machine Learning (Cluster Analyse)
+   * Inkscape Erweiterungen schreiben
+   * Blender steuern mit Python
+
+
