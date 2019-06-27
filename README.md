@@ -1,6 +1,6 @@
 # Python_Dingfabrik
 
-Dieses Github-Repository enthält das Material für meinen Python-Kurs in der Dingfabrik, der vermutlich Ende Juni 2019 stattfindet.
+Dieses Github-Repository enthält das Material für meinen Python-Kurs in der Dingfabrik, der vermutlich September oder Oktober 2019 in der Dingfabrik Köln stattfindet.
 
 # Wann und wo?
 
@@ -31,5 +31,6 @@ In der Dingfabrik Köln am ???
    * Machine Learning (Cluster Analyse)
    * Inkscape Erweiterungen schreiben
    * Blender steuern mit Python
+   * Daten saugen aus dem Internet
 
 
