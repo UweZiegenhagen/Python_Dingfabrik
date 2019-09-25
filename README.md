@@ -1,15 +1,15 @@
 # Python_Dingfabrik
 
-Dieses Github-Repository enthält das Material für meinen Python-Kurs in der Dingfabrik, der vermutlich September oder Oktober 2019 in der Dingfabrik Köln stattfindet.
+Dieses Github-Repository enthält das Material für meinen Python-Kurs in der Dingfabrik, der im Oktober 2019 in der Dingfabrik Köln stattfindet.
 
 # Wann und wo?
 
-In der Dingfabrik Köln am ???
+In der Dingfabrik Köln am 5.10.2019
 
 # Was sollte man mitbringen?
 
 * Programmier-Grundkenntnisse, der Kurs ist nicht für absolute Programmier-Laien
-* Laptop mit installiertem Anaconda Python (gibt es für Windows, Mac und Linux)
+* Laptop mit installiertem Anaconda Python 3.x (gibt es für Windows, Mac und Linux)
 
 # Themen
 
@@ -28,9 +28,11 @@ In der Dingfabrik Köln am ???
 
    * Dateien lesen und schreiben (Text, CSV, Excel)
    * Daten verarbeiten mit pandas
+   * Daten saugen aus dem Internet
+
+Coole weitere Themen, die wir vielleicht zusammen erarbeiten können:
+
    * Machine Learning (Cluster Analyse)
    * Inkscape Erweiterungen schreiben
    * Blender steuern mit Python
-   * Daten saugen aus dem Internet
-
 
