@@ -4,7 +4,7 @@ Dieses Github-Repository enthält das Material für meinen Python-Kurs in der Di
 
 # Wann und wo?
 
-In der Dingfabrik Köln am 5.10.2019
+In der Dingfabrik Köln am 5.10.2019, ab 10:00 Uhr, open end. Dieser erste Kurs ist nur für Mitglieder der Dingfabrik, bei Interesse können weitere Kurse stattfinden.
 
 # Was sollte man mitbringen?
 
