@@ -52,4 +52,10 @@ x, y = y, x
 print(x, y)
 
 
-
+def addiere_all(*werte):
+    ergebnis = 0
+    for pusteblume in werte:
+        ergebnis += pusteblume
+    print(ergebnis)
+    
+addiere_all(1,2,3,4,5,6)
