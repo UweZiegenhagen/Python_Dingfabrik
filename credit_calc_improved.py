@@ -3,7 +3,6 @@
 import pandas as pd
 import numpy as np
 
-
 def berechne_jaehrliche_Annuitaet(kreditsumme, nominalzins_prozent, tilgungssatz_prozent):
     """ Berechnet die _jährliche_ Annuität.
         Jährliche_Rate = (nominalzins + tilgungssatz) * Kreditsumme
